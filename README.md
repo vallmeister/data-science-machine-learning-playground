@@ -2,6 +2,7 @@
 
 ## What
 ### Structure
+### Technologies
 
 ## Why
 - To learn
@@ -29,4 +30,4 @@
 
 9. How to Contribute
 
-10. Tests and Examples
+10. Tests,Examples, Illustrations
