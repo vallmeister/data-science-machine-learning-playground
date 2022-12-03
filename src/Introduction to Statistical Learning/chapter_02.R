@@ -1,4 +1,4 @@
-college = read.csv("D:/Users/Christian/Develop/data-science-machine-learning-playground/src/College.csv")
+college = read.csv("D:/User/Christian/Develop/data-science-machine-learning-playground/src/Introduction to Statistical Learning/College.csv")
 rownames(college) <- college[, 1]
 college <- college [ , -1]
 View(college)
