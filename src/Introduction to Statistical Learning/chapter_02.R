@@ -22,3 +22,6 @@ hist(college$F.Undergrad)
 hist(college$P.Undergrad)
 plot(college$Top25perc, college$Grad.Rate)
 plot(college$Grad.Rate ~ college$Top10perc, data=college)
+
+library(ISLR2)
+Boston
